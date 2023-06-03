@@ -11,9 +11,7 @@ class Plantillas {
     do {
       try {
         System.out.println("Instruccion");
-        System.out.println("Introduzca la matricula del vehiculo");
-        // matricula = leer.readLine();
-        // obj.setMatricula(matricula);
+           
 
         break; // salir del bucle
       } catch (Exception e) {
