@@ -19,8 +19,8 @@ public class Grabar {
 
      public void grabar() throws Exception {
           try {
-               pw.print(getMatricula() + ";");
-               pw.print( getCentroR()+ "\n");
+               // pw.print(getMatricula() + ";");
+               // pw.print( getCentroR()+ "\n");
 
           } catch (SecurityException e) {
                throw e;

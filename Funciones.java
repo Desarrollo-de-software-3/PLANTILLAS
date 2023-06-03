@@ -1,20 +1,17 @@
-public class Registro {
-    private String matricula;
-    private String centroR;
+public class Funciones {
 
-    public String getCentroR() {
-        return centroR;
-    }
+    // Variables
+    // private Valor nombre de variable
 
-    public void setCentroR(String centroR) {
-        this.centroR = centroR;
-    }
+    // Getters
+    // public Valor getNombreDeVariable() {
+    //     return variable;
+    // }
 
-    public String getMatricula() {
-        return matricula;
-    }
 
-    public void setMatricula(String matricula) {
-        this.matricula = matricula;
-    }
+    // Setters
+    // public void setNombreDeVariable(Valor valorPorParamatro) {
+    //     this.variable = valorPorParamatro;
+    // }
+
 }
