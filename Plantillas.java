@@ -11,7 +11,7 @@ class Plantillas {
     do {
       try {
         System.out.println("Instruccion");
-           
+         //variable = leer.readLine();
 
         break; // salir del bucle
       } catch (Exception e) {
